@@ -62,9 +62,6 @@ python main.py test MODEL_PATH
 
 Here, `MODEL_PATH` denotes for the path of the trained model.
 
-This script will report the localization performance in terms of mean average precision (mAP) at different tIoU thresholds.
-
-You can download our trained model from [Google Drive](https://drive.google.com/file/d/1DkW6AtPnZ6FUuf9HGgw261S74V2PrsE6/view?usp=sharing) or [Weiyun](https://share.weiyun.com/Zpn9SI0a).
 
 
 
