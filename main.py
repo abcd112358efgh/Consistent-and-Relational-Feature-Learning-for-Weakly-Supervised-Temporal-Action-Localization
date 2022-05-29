@@ -1,8 +1,3 @@
-# Code for CVPR'21 paper:
-# [Title]  - "CoLA: Weakly-Supervised Temporal Action Localization with Snippet Contrastive Learning"
-# [Author] - Can Zhang*, Meng Cao, Dongming Yang, Jie Chen and Yuexian Zou
-# [Github] - https://github.com/zhang-can/CoLA
-
 import os
 import sys
 import time
